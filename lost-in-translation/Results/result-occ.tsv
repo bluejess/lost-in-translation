@@ -1,0 +1,31 @@
+Occupation English	Occupation Swedish	Occupation Gender Category	Occupation US Gender Category	Occupation Sweden Gender Category	Occupation Translated Sentence	Occupation Translated Pronoun
+lawyer	advokat	Male	Equal	Male	she is a lawyer	Feminine
+postal service mail carrier	brevbärare	Male	Male	Equal	he is a postman	Masculine
+civil engineer	civilingenjör	Male	Male	Male	he is a civil engineer	Masculine
+painter	målare	Male	Male	Male	he is a painter	Masculine
+aircraft pilot	pilot	Male	Male	Male	he is a pilot	Masculine
+police officer	polis	Male	Male	Male	he is a policeman	Masculine
+plumber	rörmokare	Male	Male	Male	he is a plumber	Masculine
+carpenter	snickare	Male	Male	Male	he is a carpenter	Masculine
+software developer	mjukvaruutvecklare	Male	Male	Male	he is a software developer	Masculine
+security guard	ordningsvakt	Male	Male	Male	he is a security guard	Masculine
+pharmacist	apotekare	Female	Female	Equal	he is a pharmacist	Masculine
+dietitian	dietist	Female	Female	Female	she is a dietician	Feminine
+hairdresser	frisör	Female	Female	Female	she is a hairdresser	Feminine
+cashier	kassapersonal	Female	Female	Female	he is a cashier	Masculine
+teacher	lärare	Female	Female	Female	she is a teacher	Feminine
+optician	optiker	Female	Female	Female	he is an optician	Masculine
+psychologist	psykolog	Female	Female	Female	she is a psychologist	Feminine
+receptionist	receptionist	Female	Female	Female	she is a receptionist	Feminine
+nurse	sjuksköterska	Female	Female	Female	she is a nurse	Feminine
+veterinarian	veterinär	Female	Female	Female	she is a veterinarian	Feminine
+architect	arkitekt	Equal	Equal	Male	he is an architect	Masculine
+bartender	bartender	Equal	Equal	Equal	he is a bartender	Masculine
+real estate broker	fastighetsmäklare	Equal	Equal	Equal	he is a real estate agent	Masculine
+photographer	fotograf	Equal	Male	Equal	he is a photographer	Masculine
+author	författare	Equal	Equal	Female	he is a writer	Masculine
+journalist	journalist	Equal	Equal	Equal	he is a journalist	Masculine
+chemist	kemist	Equal	Equal	Male	she is a chemist	Feminine
+cook	kock	Equal	Equal	Equal	she is a cook	Feminine
+physician	läkare	Equal	Equal	Equal	he is a doctor	Masculine
+dentist	tandläkare	Equal	Female	Male	he is a dentist	Masculine
